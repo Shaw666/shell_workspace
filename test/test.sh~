@@ -1,0 +1,2 @@
+for skill Ada Coffe Action Java; do
+    echo "I am good at ${skill}Script"
